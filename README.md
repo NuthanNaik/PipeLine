@@ -1,5 +1,7 @@
 # PipeLine
 
+[PipelinedProcessor.pdf](https://github.com/NuthanNaik/PipeLine/files/7115055/PipelinedProcessor.pdf)
+
 1 Processor Configuration
 Consider a scalar pipelined processor that has a 256B instruction cache (I$) and a 256B data cache (D$),
 both having a read port and a write port each and both are direct-mapped caches (the block size is 4B).
